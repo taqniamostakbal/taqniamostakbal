@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Builder+by+night.;Mudif%3A+your+phone+is+a+full+computer." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Builder+by+night." alt="Typing animation" />
 </p>
 
 <h2 align="center">About Me</h2>
@@ -13,10 +13,8 @@
   <img src="divider.svg" alt="" width="60%" />
 </p>
 
-I'm **taqniamostakbal**. Builder. I run the YouTube channel **Exploring Tech** and I'm building **Mudif**, an Android app that turns a phone into a full computer.
+I'm **taqniamostakbal**. Builder. I run the YouTube channel **Exploring Tech**.
 
-- <img src="icons/rocket.svg" width="18" height="18" /> Building now: **Mudif**, a phone that becomes a complete desktop
-- <img src="icons/target.svg" width="18" height="18" /> Goal: grow Mudif and build in public
 - <img src="icons/sprout.svg" width="18" height="18" /> Learning: Kotlin, Android internals, and Linux on phones
 - <img src="icons/speech.svg" width="18" height="18" /> Ask me about: Linux on Android and turning a phone into a PC
 
@@ -38,29 +36,6 @@ I'm **taqniamostakbal**. Builder. I run the YouTube channel **Exploring Tech** a
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<h2 align="center">Featured project: Mudif</h2>
-<p align="center">
-  <img src="divider.svg" alt="" width="60%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/taqniamostakbal/mudif">
-    <img src="https://img.shields.io/badge/Mudif-593BFE?style=for-the-badge&logo=android&logoColor=white" alt="Mudif on GitHub" />
-  </a>
-</p>
-
-**Mudif** is an Android app that turns a phone alone into a full computer: a real Debian LXQt desktop, a store of 1,228 programs, and Windows programs running through a custom translator built from scratch.
-
-- <img src="icons/monitor.svg" width="18" height="18" /> A complete Linux desktop on your phone, no laptop needed
-- <img src="icons/cube.svg" width="18" height="18" /> A store of 1,228 free programs inside the app
-- <img src="icons/window.svg" width="18" height="18" /> Windows programs translated to run natively on ARM64
-
-<p align="center">
-  <a href="https://www.star-history.com/#taqniamostakbal/mudif&Date">
-    <img src="https://api.star-history.com/svg?repos=taqniamostakbal/mudif&type=Date&theme=dark" alt="Mudif star history" width="80%" />
-  </a>
 </p>
 
 <h2 align="center">Contacts</h2>
